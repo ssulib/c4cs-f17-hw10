@@ -1,0 +1,5 @@
+# CAEN
+Host ssul
+	HostName login.engin.umich.edu
+	User ssul
+	Compression yes
